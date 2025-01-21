@@ -16,7 +16,7 @@
 
 `CGI.vbs`
 
-## PECMD全能计算器
+### PECMD全能计算器
 
 `calc.vbs`
 
@@ -32,6 +32,10 @@
 
 `Fileattr.vbs`
 
+### 找出符合特定条件的分区
+
+`FindPart.vbs`
+
 ### VHD处理工具
 
 `OneVHDx.vbs`
@@ -43,6 +47,10 @@
 ### QEMU启动测试工具
 
 `Qemu.vbs`
+
+### PECMD进程管理器
+
+`TaskMgr.vbs`
 
 ### 系统时间同步
 
